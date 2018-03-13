@@ -14,6 +14,8 @@ of the interrupt type and a tiny bit of the name).
 Usage
 -----
 
+$ perl itop
+
 ```
 itop [-a|-t|-f <string>|-i <interval>]
 
